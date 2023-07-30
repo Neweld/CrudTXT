@@ -1,0 +1,17 @@
+#
+Nome: Uchida
+Idade: 17
+Email: Uchida@gmail.com
+Data de aquisição:  06/04/2023
+Data de devolução: 06/04/2024
+Tipo da charrete: Milord
+Mensagem:  Trazer o técnico do japão
+#
+Nome: Matheus Carvalho
+Idade: 23
+Email: matheusc@gmail.com
+Data de aquisição:  07/04/2023
+Data de devolução: 07/04/2023
+Tipo da charrete: Sociable
+Mensagem:  Transporte de artigos esportivos
+
